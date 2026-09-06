@@ -4052,6 +4052,22 @@ body.server-row-drag-active * {
     color: var(--accent-purple);
 }
 
+.ping-node-1 {
+    color: #ff7b72;
+}
+
+.ping-node-2 {
+    color: #79c0ff;
+}
+
+.ping-node-3 {
+    color: #7ee787;
+}
+
+.ping-node-4 {
+    color: #ffa657;
+}
+
 .modal-body-content {
     padding: 16px 0;
 }
